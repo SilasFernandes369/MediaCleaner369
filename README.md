@@ -1,2 +1,9 @@
-# MediaCleaner369
-Seu dispositivo mais leve, veloz, limpa fotos e vídeos e libera espaço no seu Celular 
+## 📱 Como Usar
+1. Clone o repositório
+2. Execute `npm install`
+3. Execute `npm start`
+
+## 🛠️ Tecnologias
+- React Native
+- Expo
+- JavaScript
